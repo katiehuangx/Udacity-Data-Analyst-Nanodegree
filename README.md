@@ -22,6 +22,14 @@
 
 ## Part 2: Introduction to Data Analysis
 
+There are 5 steps to the data analysis process.
+
+- Step 1: Ask Questions
+- Step 2: Wrangle Data
+- Step 3: Perform Exploratory Data Analysis (EDA)
+- Step 4: Draw Conclusions (or, Predictions)
+- Step 5: Communicate your Results
+
 ### Project #2 Investigate a Dataset
 
 ***

@@ -30,6 +30,8 @@ There are 5 steps to the data analysis process.
 - Step 4: Draw Conclusions (or, Predictions)
 - Step 5: Communicate your Results
 
+### Case Study #1 Wine Quality
+
 ### Project #2 Investigate a Dataset
 
 ***

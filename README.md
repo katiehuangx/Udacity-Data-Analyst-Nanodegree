@@ -32,6 +32,12 @@ There are 5 steps to the data analysis process.
 
 ### Case Study #1 Wine Quality
 
+- Ask questions associated to the wine samples data set.
+- Assess data set by finding out shape and information, duplicated rows, unique values and mean.
+ - Wrangle data set by appending new arrays for wine colours and combining the data sets.
+- Create visualizations
+- View my project [here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)!
+
 ### Project #2 Investigate a Dataset
 
 ***

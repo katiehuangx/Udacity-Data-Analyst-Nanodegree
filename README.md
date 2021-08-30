@@ -38,6 +38,8 @@ There are 5 steps to the data analysis process.
 - Create visualizations using Matplotlib and drawing conclusions
 - Communicating results by answering the questions
 
+### ⛽️ Case Study #2 Fuel Economy
+
 ### Project #2 Investigate a Dataset
 
 ***

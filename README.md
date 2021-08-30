@@ -13,7 +13,7 @@
 ## Part 1: Welcome to the Nanodegree Program
 
 ### 🌤 Project #1 Explore Weather Trends
-- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
+- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
 - Extract data from database using `SQL` query.
 - Manipulate data and create data visualization using `Python`.
 - Interpret and prepare a write up using `Jupyter Notebook` describing the similarities and differences between global temperature trends and temperature trends in the city where I live.

@@ -13,10 +13,10 @@
 ## Part 1: Welcome to the Nanodegree Program
 
 ### 🌤 Project #1 Explore Weather Trends
+- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
 - Extract data from database using `SQL` query.
 - Manipulate data and create data visualization using `Python`.
 - Interpret and prepare a write up using `Jupyter Notebook` describing the similarities and differences between global temperature trends and temperature trends in the city where I live.
-- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
 
 ***
 
@@ -31,13 +31,12 @@ There are 5 steps to the data analysis process.
 - Step 5: Communicate your Results
 
 ### 🍷 Case Study #1 Wine Quality
-
+- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)**!
 - Ask questions associated to the red and white wine samples data.
 - Assess data by finding out shape and information, duplicated rows, unique values and mean.
 - Wrangle data by appending new arrays for wine colours and combining the data sets.
 - Create visualizations using Matplotlib and drawing conclusions
 - Communicating results by answering the questions
-- View my project [here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)!
 
 ### Project #2 Investigate a Dataset
 

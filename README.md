@@ -1,5 +1,14 @@
 # 🌟 Udacity Data Analyst Nanodegree 
 
+4-month intensive course on Data Analysis with Python and SQL. At the end of the course, I would have learn how to:
+
+- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in Python, using libraries like NumPy and Pandas.
+- Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
+- Learn the data wrangling process of gathering, assessing, and cleaning data. Learn to use Python to wrangle data programmatically and prepare it for analysis.
+- Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to find insights and create a compelling story.
+
+View the [website](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and course [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf).
+
 ## 📚 Core Curriculum
 
 - [Part 1: Welcome to the Nanodegree Program](#part-1-welcome-to-the-nanodegree-program)

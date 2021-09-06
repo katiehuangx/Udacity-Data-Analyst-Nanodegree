@@ -1,13 +1,17 @@
 # 🌟 Udacity Data Analyst Nanodegree 
 
-4-month intensive course on Data Analysis with Python and SQL. At the end of the course, I would have learn how to:
+Online course on Data Analysis with Python and SQL. 
 
-- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in Python, using libraries like NumPy and Pandas.
+At the end of the course, I would have learn how to:
+- Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. 
+- Work with data in Python, using libraries like NumPy and Pandas.
 - Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
-- Learn the data wrangling process of gathering, assessing, and cleaning data. Learn to use Python to wrangle data programmatically and prepare it for analysis.
-- Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to find insights and create a compelling story.
+- Learn the data wrangling process of gathering, assessing, and cleaning data. 
+- Learn to use Python to wrangle data programmatically and prepare it for analysis.
+- Learn to apply visualization principles to the data analysis process. 
+- Explore data visually at multiple levels to find insights and create a compelling story.
 
-View the [website](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and course [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf).
+View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002) and [syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf).
 
 ## 📚 Core Curriculum
 
@@ -22,7 +26,9 @@ View the [website](https://www.udacity.com/course/data-analyst-nanodegree--nd002
 ## Part 1: Welcome to the Nanodegree Program
 
 ### 🌤 Project #1 Explore Weather Trends
-- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
+View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%201:%20Welcome/Project%20%231:%20Explore%20Weather%20Trends/Project%201%20-%20Explore%20Weather%20Trends.ipynb)**!
+
+**Skills learnt:**
 - Extract data from database using `SQL` query.
 - Manipulate data and create data visualization using `Python`.
 - Interpret and prepare a write up using `Jupyter Notebook` describing the similarities and differences between global temperature trends and temperature trends in the city where I live.
@@ -40,7 +46,9 @@ There are 5 steps to the data analysis process.
 - Step 5: Communicate your Results
 
 ### 🍷 Case Study #1 Wine Quality
-- View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)**!
+View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)**!
+
+**Skills learnt:**
 - Ask questions associated to the red and white wine samples data.
 - Assess data by finding out shape and information, duplicated rows, unique values and mean.
 - Wrangle data by appending new arrays for wine colours and combining the data sets.

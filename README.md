@@ -52,10 +52,16 @@ View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nan
 - Ask questions associated to the red and white wine samples data.
 - Assess data by finding out shape and information, duplicated rows, unique values and mean.
 - Wrangle data by appending new arrays for wine colours and combining the data sets.
-- Create visualizations using Matplotlib and drawing conclusions
-- Communicating results by answering the questions
+- Create visualizations using Matplotlib and drawing conclusions.
+- Communicating results by answering the questions.
 
 ### ⛽️ Case Study #2 Fuel Economy
+View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%232:%20Fuel%20Economy/Fuel_Economy.ipynb)**!
+
+**Skills learnt:**
+- Ask questions associated with vehicles' fuel economy and SmartWay certification.
+- Assess data by finding out shape and information, duplicated rows, unique values and mean.
+- Create visualizations (histogram, scatterplot, boxplot) using Matplotlib and drawing conclusions.
 
 ### Project #2 Investigate a Dataset
 

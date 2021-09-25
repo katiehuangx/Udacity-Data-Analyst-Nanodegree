@@ -37,14 +37,6 @@ View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nan
 
 ## Part 2: Introduction to Data Analysis
 
-There are 5 steps to the data analysis process.
-
-- Step 1: Ask Questions
-- Step 2: Wrangle Data
-- Step 3: Perform Exploratory Data Analysis (EDA)
-- Step 4: Draw Conclusions (or, Predictions)
-- Step 5: Communicate your Results
-
 ### 🍷 Case Study #1 Wine Quality
 View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Part%202:%20Intro%20to%20Data%20Analysis/Case%20Study%20%231:%20Wine%20Quality/Wine_Quality.ipynb)**!
 
@@ -63,7 +55,8 @@ View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nan
 - Assess data by finding out shape and information, duplicated rows, unique values and mean.
 - Create visualizations (histogram, scatterplot, boxplot) using Matplotlib and drawing conclusions.
 
-### Project #2 Investigate a Dataset
+### Project #2 TMDb Movie Analysis
+View my project **[here]**!
 
 ***
 

@@ -1,8 +1,10 @@
 # 🌟 Udacity Data Analyst Nanodegree 
 
-Online course on Data Analysis with Python and SQL. 
+Focus area: Data analysis using Python.
 
-At the end of the course, these are my key learnings:
+Period: Aug - Oct 2021 (estimated completion)
+
+At the end of the course, these are my 🔑 **key learnings**:
 - Learn the data analysis process of wrangling, exploring, analyzing, and communicating data, and work with data in Python, using libraries like NumPy and Pandas.
 - Apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests and building supervised learning models.
 - Learn the data wrangling process of gathering, assessing, and cleaning data and use Python to wrangle data programmatically and prepare it for analysis.
@@ -25,8 +27,7 @@ Using moving average method to analyse the global and Kuala Lumpur weather trend
 
 ## Part 2: Introduction to Data Analysis
 
-### 🍷 Case Study #1 Wine Quality
-View my project **[here](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb)**!
+### 🍷 [Case Study #1 Wine Quality]((https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%201%20-%20Analysing%20Wine%20Quality.ipynb))
 
 A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol
 level, sugar content and acidity level) are associated with higher wine quality

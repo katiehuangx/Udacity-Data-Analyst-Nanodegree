@@ -22,7 +22,7 @@ _Click on the project title to view my projects! 🙂_
 
 ### 🌤 [Project #1 Explore Weather Trends](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Explore%20Weather%20Trends.ipynb)
 
-Using moving average method to analyse the global and Kuala Lumpur weather trends..
+In this time-series analysis, I use moving average method to analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 ***
 
